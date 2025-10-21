@@ -1,4 +1,5 @@
 {
+  "id": "investigation-board",
   "name": "investigation-board",
   "title": "Investigation Board",
   "description": "A Foundry VTT module that lets everyone create, edit, and move sticky and photo notes on the scene as collaborative investigation tools.",
@@ -25,7 +26,7 @@
   "templates": [
     "templates/drawing-sheet.html"
   ],
-  "url": "https://github.com/mordachai/investigation-board",
-  "manifest": "https://github.com/mordachai/investigation-board/raw/main/module.json",
-  "download": "https://github.com/mordachai/investigation-board/raw/main/investigation-board.zip"
+  "url": "https://github.com/hapl0/investigation-board",
+  "manifest": "https://github.com/hapl0/investigation-board/raw/main/module.json",
+  "download": "https://github.com/hapl0/investigation-board/raw/main/investigation-board.zip"
 }
